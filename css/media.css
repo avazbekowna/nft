@@ -1,0 +1,395 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+    .general4 img {
+        margin-left: 50px;
+    }
+    .general5 img {
+        left: 1339px;
+    }
+    .general3 img {
+        left: 1176px;
+    }
+
+}
+@media (max-width: 1200px){
+    .general3 img {
+        left: 943px;
+    }
+    .general5 img {
+        left: 1097px;
+    }
+    .navbar a {
+        padding: 0 2px;
+    }
+
+}
+@media (max-width: 1024px){
+    .general4 img {
+        width: 90%;
+    }
+    .general img {
+        width: 90%;
+    }
+    .general3 img {
+        width: 163px;
+        height: 342px;
+        margin-left: -124px;
+    }
+    .hero-gen{
+        width: 90%;
+    }
+    .hero-block2 {
+        width: 95%;
+    }
+    .general5 img{
+        left: 922px;
+    }
+    .button-top{
+        margin-left: 431px;
+    }
+    .creat-title {
+        font-size: 34px;
+        margin-top: -30px;
+    }
+    .nft-block2 {
+        width: 286px;
+        height: 274px;
+        left: 400px;
+
+    }
+    .nft-block2 img {
+        margin-left: 99px;
+        margin-top: 31px;
+    }
+    .nft-block2 h1 {
+        font-size: 18px;
+    }
+    .nft-block2 p {
+        font-size: 12px;
+        margin-left: 42px;
+    }
+    .nft {
+        width: 997px;
+    }
+    .nft-block3 {
+        margin-left: 637px;
+    }
+    .me-block {
+
+    }
+
+
+}
+
+@media (max-width: 992px){
+    .blog-title {
+        font-size: 35px;
+
+    }
+    .top-block{}
+    .general5 img {
+        width: 65px;
+    }
+
+
+
+}
+@media (max-width: 768px){
+.me-block{
+    display: none;
+}
+    .me{
+        display: none;
+    }
+    .navbar img{
+        margin-left: -150px;
+    }
+    .navbar h1{
+        margin-left: -350px;
+    }
+    .hero {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .general3 img{
+        margin-top: 597px;
+        margin-left: -464px;
+    }
+
+
+    .general5 img{
+        margin-top: 649px;
+        margin-left: -241px;
+    }
+    .nft-block2{
+        margin-top: 600px;
+    }
+    .big-learn {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .learn-block2 {
+        width: 439px;
+    }
+    .nft{
+        width: 400px;
+        height: 850px;
+        margin-left: 150px;
+    }
+    .nff {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .nft-block{
+        margin-left: -70px;
+        padding-bottom: 30px;
+    }
+    .top {
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 280px;
+    }
+    .button-top {
+        margin-left: 288px;
+    }
+    .seller-block {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .seller-block2{
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+    .rip{
+        margin-bottom: 20px;
+    }
+    .blog-big {
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 290px;
+    }
+    .footer-you {
+        justify-content: center;
+        flex-direction: column;
+        margin-left: -200px;
+
+    }
+    .footer-me {
+        justify-content: center;
+        flex-direction: column;
+    }
+
+
+
+
+
+}
+@media (max-width: 576px){
+    .hero-block h1 {
+        font-size: 48px;
+    }
+    .hero-block p {
+        font-size: 13px;
+    }
+    .hero-block button {
+        font-size: 13px;
+        width: 105px;
+        height: 39px;
+    }
+    .hero-me img {
+        width: 34px;
+    }
+    .hero-me p {
+        margin-top: 11px;
+    }
+    .general3 img {
+        margin-left: -567px;
+        margin-top: 561px;
+    }
+    .general5 img{
+        margin-left: -30px;
+    }
+    .general5 img {
+        margin-left: -414px;
+        margin-top: 561px;
+    }
+    .learn-block1 img{
+        width: 90%;
+    }
+    .learn-block2 img{
+        width: 90%;
+    }
+    .learn {
+        padding: 98px 99px;
+        margin-left: -76px;
+    }
+    .creat-title{
+        font-size: 25px;
+    }
+    .nft{
+        margin-left: 60px;
+        width: 90%;
+    }
+    .top{
+        width: 90%;
+        margin-left: 184px;
+    }
+    .button-top{
+        margin-left: 202px;
+    }
+    .hero{
+        width: 90%;
+    }
+}
+@media (max-width: 451px){
+    .hero-mini h1 {
+        font-size: 26px;
+        padding: 27px 19px;
+    }
+    .hero-block2 {
+        width: 90%;
+    }
+    .general3 img {
+        margin-left: -651px;
+        margin-top: 615px;
+        width: 120px;
+    }
+    .general5 img {
+        margin-left: -539px;
+    }
+
+    .learn {
+        padding: 57px;
+        margin-left: -43px;
+    }
+    .qwe{
+        margin-left: 157px;
+    }
+    .footer-me{
+        margin-left: -50px;
+    }
+    .footer-you{
+        margin-left: -227px;
+    }
+    .seller-title {
+        font-size: 32px;}
+    .button-top {
+        margin-left: 133px;
+    }
+    .nft{
+        margin-left: 14px;
+    }
+    .navbar img{
+        margin-left: -90px;
+    }
+    .navbar h1{
+        margin-left: -143px;
+    }
+
+
+
+}
+@media (max-width: 400px){
+    .general3 img {
+        margin-left: -695px;
+        margin-top: 654px;
+    }
+    .general5 img{
+        margin-left: -590px;
+    }
+    .learn p {
+        font-size: 10px;
+        line-height: 15px;
+
+    }.learn h1 {
+         font-size: 20px;
+     }
+    .learn-button {
+        font-size: 11px;
+        width: 102px;
+        height: 29px;
+    }
+    .hero-mini2 p {
+        padding: 0 32px;
+    }
+    .learn-block2 img {
+        padding: 0 10px;
+        margin-left: -202px;
+        height: 111px;
+
+    }
+    .creat-title{
+        font-size: 20px;
+    }
+    .top-title {
+        font-size: 31px;
+    }
+    .top-block {
+        width: 632px;
+        height: 454px;
+    }
+    .blog-big-block{
+        width: 632px;
+        height: 454px;
+    }
+
+
+
+
+    }
+@media (max-width: 375px){
+    .general5 img{
+        margin-left: -615px;
+    }
+    .top-block {
+        width: 648px;
+        height: 489px;
+    }
+    .button-top {
+        font-size: 13px;
+        width: 97px;
+        height: 36px;
+    }
+    .blog-title {
+        font-size: 25px;
+    }
+
+}
+@media (max-width: 320px){
+    .hero-block h1{
+        font-size: 36px;
+    }
+    .hero-block p{
+        font-size: 9px;
+    }
+    .hero-mini h1{
+        font-size: 19px;
+    }
+    .hero-block2 {
+        width: 300px;
+        height: 74px;
+    }
+    .general2 img {
+        margin-left: 136px;
+        padding-bottom: 67px;
+        width: 50px;
+    }
+    .general img {
+        width: 100px;
+        margin-left: 19px;
+    }
+    .general3 img {
+        width: 84px;
+        margin-left: -730px;
+        margin-top: 550px;
+    }
+    .general5 img {
+        margin-left: -639px;
+        width: 35px;
+        margin-top: 425px;
+    }
+}
+
